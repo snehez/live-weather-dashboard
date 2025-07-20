@@ -45,7 +45,7 @@ This project is a live weather analytics dashboard built using **Power BI Deskto
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Screenshot](screenshot.png)
+![Dashboard Screenshot](https://github.com/snehez/live-weather-dashboard/blob/main/Screenshot.png))
 
 
 ## 🧠 Author

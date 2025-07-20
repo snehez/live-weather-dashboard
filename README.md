@@ -37,12 +37,6 @@ This project is a live weather analytics dashboard built using **Power BI Deskto
 4. The dashboard supports **manual or scheduled auto-refresh** when published to Power BI Service.
 
 
-## 🔗 Live Demo (Optional)
-
-[👉 View the Live Power BI Dashboard](https://app.powerbi.com/...)  
-> *(Note: Replace this with your public link once “Publish to Web” is enabled)*
-
-
 ## 🖼️ Dashboard Preview
 
 ![Dashboard Screenshot](https://github.com/snehez/live-weather-dashboard/blob/main/Screenshot.png))
